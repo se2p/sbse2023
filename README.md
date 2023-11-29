@@ -34,3 +34,9 @@ This chapter covers the basics of Pareto optimality, NSGA-II, and comparison
 of multi-objective search algorithms.
 [Markdown Export](rendered/Multi-Objective%20Optimisation%20-%20Part%201.md)
 
+
+## Chapter 5: Multi-Objective Optimisation (Part 2)
+
+This chapter covers several alternative multi-objective search algorithms:
+A random baseline, PAES, SPEA2, TwoArchives, and SMS-EMOA.
+[Markdown Export](rendered/Multi-Objective%20Optimisation%20-%20Part%202.md)
