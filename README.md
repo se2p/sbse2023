@@ -58,3 +58,11 @@ many objective optimisation for test generation.
 [Markdown Export](rendered/Search-Based%20Test%20Generation%20-%20Part%202.md)
 
 
+
+## Chapter 8: Genetic Programming
+
+This chapter introduces classic genetic programming for scenarios assuming
+type closure, and applies this to symbolic regression and spectrum-based
+fault localisation. It also looks at grammatical evolution and automated program repair.
+
+[Markdown Export](rendered/Genetic%20Programming.md)
