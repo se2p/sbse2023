@@ -66,3 +66,14 @@ type closure, and applies this to symbolic regression and spectrum-based
 fault localisation. It also looks at grammatical evolution and automated program repair.
 
 [Markdown Export](rendered/Genetic%20Programming.md)
+
+
+## Chapter 9: Neuroevolution
+
+This chapter introduces the field of Neuroevolution in which evolutionary algorithms are used to optimise artificial
+neural networks. We start with the definition of neural networks and the pole balancing problem, a popular reinforcement
+learning task which will be solved using two different Neuroevolution algorithms. The two algorithms, Symbiotic Adaptive
+Neuroevolution (SANE) and Cooperative Synapse Neuroevolution (CoSyNE), respectively, evolve a population of hidden
+neurons and connection weights.
+
+[Markdown Export](rendered/Neuroevolution%20-%20Part%201.md)
