@@ -76,4 +76,4 @@ learning task which will be solved using two different Neuroevolution algorithms
 Neuroevolution (SANE) and Cooperative Synapse Neuroevolution (CoSyNE), respectively, evolve a population of hidden
 neurons and connection weights.
 
-[Markdown Export](rendered/Neuroevolution%20-%20Part%201.md)
+[Markdown Export](rendered/Neuroevolution.md)
