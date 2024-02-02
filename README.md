@@ -77,3 +77,12 @@ Neuroevolution (SANE) and Cooperative Synapse Neuroevolution (CoSyNE), respectiv
 neurons and connection weights.
 
 [Markdown Export](rendered/Neuroevolution.md)
+
+
+## Chapter 10: Parameter Tuning and Parameter Control
+
+This chapter considers how to choose values for the many parameters that we
+have introduced in our evolutionary algorithms, how to optimise these
+values, and how to adapt them to new problems.
+
+[Markdown Export](rendered/Parameter%20Control%20and%20Adaptation.md)
